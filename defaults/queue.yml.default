@@ -1,0 +1,14 @@
+development:
+  adapter: starling
+  servers:
+    - 127.0.0.1:22122
+
+test:
+  adapter: starling
+  servers:
+    - 127.0.0.1:22122
+
+production:
+  adapter: starling
+  servers:
+    - 127.0.0.1:22122
